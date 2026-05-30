@@ -1,10 +1,10 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" alt="Waving Hand" width="50" />
-  <h1>Salut, je suis Amine Koufi</h1>
+  <h1>Salut, je suis Amine</h1>
   
   <!-- ANIMATION TYPING -->
   <a href="https://1st-portfolio-livid.vercel.app/">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Développeur+Full-Stack;Étudiant+en+Bachelor+à+3iL;Passionné+par+le+Dev+Web+%26+Mobile;Découvrez+mon+Portfolio+!&color=38B6FF" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Développeur+Full-Stack;Créateur+de+solutions+web;Passionné+par+le+Dev+Mobile;Découvrez+mon+Portfolio+!&color=38B6FF" alt="Typing SVG" />
   </a>
   
   <p><b>Créateur d'expériences digitales | React, Laravel, Node.js & Flutter</b></p>
@@ -20,11 +20,11 @@
 
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="120" />
 
-* 🎓 Actuellement en **Bachelor Full-Stack** à 3iL, je conçois des applications performantes.
-* 🛠️ J'utilise un environnement **macOS** et je suis fan des outils en ligne de commande (Homebrew, NVM).
-* 🌍 Trilingue (Français, Anglais, Arabe), j'apprends le **Coréen** et le **Japonais**.
-* 🎯 En préparation pour un **Master (2026-2027)**, avec pour objectif la France ou la Corée du Sud.
-* 💼 Je travaille sur la refonte de solutions web, notamment des migrations depuis WordPress vers des stacks modernes comme **React**.
+* 🎓 Actuellement étudiant en **Développement Full-Stack**, je conçois des applications web et mobiles performantes.
+* 🛠️ Passionné par l'écosystème web, j'utilise au quotidien des outils modernes pour optimiser mon flux de travail.
+* 🌍 Curieux de nature, j'aime découvrir de nouvelles cultures et j'apprends des langues étrangères sur mon temps libre.
+* 🎯 Ouvert aux opportunités à l'international pour la suite de mes études supérieures et mon parcours professionnel.
+* 💼 Je travaille sur des projets de création et de refonte de solutions digitales vers des technologies modernes.
 
 ---
 
