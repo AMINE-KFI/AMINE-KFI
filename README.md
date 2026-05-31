@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" alt="Waving Hand" width="50" />
-  <h1>Salut, je suis Amine</h1>
+  <h1>👋 Salut, je suis Amine</h1>
   
   <!-- ANIMATION TYPING -->
   <a href="https://1st-portfolio-livid.vercel.app/">
@@ -50,7 +49,7 @@
 ### 📊 Statistiques & Activité
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AMINE-KFI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AMINE-KFI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AMINE-KFI&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
 
